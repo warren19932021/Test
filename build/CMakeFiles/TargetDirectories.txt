@@ -1,0 +1,3 @@
+/home/iktp/Programs/c_plus_plus_task/calculate_area/build/CMakeFiles/rebuild_cache.dir
+/home/iktp/Programs/c_plus_plus_task/calculate_area/build/CMakeFiles/edit_cache.dir
+/home/iktp/Programs/c_plus_plus_task/calculate_area/build/CMakeFiles/program.dir
