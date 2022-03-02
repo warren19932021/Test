@@ -8,6 +8,7 @@ using namespace std;
    {
 
 
+
 	   //Shape * shape = new Square;
 	   Square * shape = new Square(10);
 	   //Shape * shape = new Shape;
