@@ -12,6 +12,7 @@ using namespace std;
 
 
 //	   Shape * shape = new Square(10);
+//	   Shape * shape = new Square(10);
       Shape * shape = new Rectangle(10,20);      
 		cout<<"Area of Square: "<<shape->CalculateArea()<<endl;
 		cout<<"circumference of Square: "<<shape->CalculateCircumference()<<endl;
